@@ -131,7 +131,7 @@ GUIDE = AFFE_CHAR_CINE(MECA_IMPO=_F(DX=0.0,
                        MODELE=model)
 
 SYMM = AFFE_CHAR_CINE(MECA_IMPO=(_F(DX=0.0,
-                                    GROUP_MA=('STRIP1_DX0', 'GASKET1_DY0', 'STRIP2_DX0')),
+                                    GROUP_MA=('STRIP1_DX0', 'GASKET1_DX0', 'STRIP2_DX0')),
                                  _F(DY=0.0,
                                     GROUP_MA=('STRIP1_DY0', 'GASKET1_DY0', 'STRIP2_DY0'))),
                       MODELE=model)
